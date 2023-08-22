@@ -39,7 +39,7 @@ I've built this portfolio website using cutting-edge technologies to ensure a se
 
 ## Contact
 
-I believe in the power of collaboration and networking. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile), explore my code on [GitHub](https://github.com/your-username), or drop me a direct message at [your@email.com](mailto:your@email.com).
+I believe in the power of collaboration and networking. Connect with me on [LinkedIn](https://www.linkedin.com/in/subhajit-das-152907244/), explore my code on [GitHub](https://github.com/Subhojitd), or drop me a direct message at [your@email.com](mailto:subhojitdas153@gmail.com).
 
 Looking forward to connecting with fellow developers, collaborators, and potential clients!
 
